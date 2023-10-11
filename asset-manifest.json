@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Quiz-App/static/css/main.1570a3b5.css",
+    "main.css": "/Quiz-App/static/css/main.f0442999.css",
     "main.js": "/Quiz-App/static/js/main.58b9624b.js",
     "static/media/Rubik-VariableFont_wght.ttf": "/Quiz-App/static/media/Rubik-VariableFont_wght.3a4acc0356c6ea73f2c3.ttf",
     "index.html": "/Quiz-App/index.html",
-    "main.1570a3b5.css.map": "/Quiz-App/static/css/main.1570a3b5.css.map",
+    "main.f0442999.css.map": "/Quiz-App/static/css/main.f0442999.css.map",
     "main.58b9624b.js.map": "/Quiz-App/static/js/main.58b9624b.js.map"
   },
   "entrypoints": [
-    "static/css/main.1570a3b5.css",
+    "static/css/main.f0442999.css",
     "static/js/main.58b9624b.js"
   ]
 }
