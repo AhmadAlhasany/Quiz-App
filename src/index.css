@@ -132,12 +132,10 @@ html {
 
 .grid button.true{
   background-color: #088395;
-  opacity: 0.8;
   color:white;
 }
 .grid button.false{
   background-color: #eb8462;
-  opacity: 0.8;
   color:white;
 }
 
